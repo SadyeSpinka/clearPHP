@@ -1,4 +1,4 @@
-# Tools
+ #Tools
 
 Here is a list of tools that are handy to use when checking clearPHP rules.
 
@@ -16,3 +16,4 @@ Here is a list of tools that are handy to use when checking clearPHP rules.
 
 
 (No specific order is used at the moment)
+ 
