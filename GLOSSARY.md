@@ -1,4 +1,4 @@
-# break
+ *break
 `break` ends execution of the current for, foreach, while, do-while or switch structure.
 
 # case
@@ -24,3 +24,4 @@ The `switch` statement is similar to a series of IF statements on the same expre
 
 # trait
 `Traits` are a mechanism for code reuse in single inheritance languages such as PHP.
+ 
